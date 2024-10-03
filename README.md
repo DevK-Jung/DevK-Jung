@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+JungHyun+Kim;a+backend+developer.)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&height=300&fontColor=FFFFFF&section=header&text=DevK-Jung&fontSize=90&stroke=8)
 
-## 👋 Hi there! I'm JunhHyeong Kim, a backend developer
+
+👋 Hi there! I'm JunhHyeong Kim, a backend developer
 
 ### ✨ Tech Stack
 ---
@@ -81,6 +82,7 @@
 </div>
 
 ### 📊 Statistics
+---
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=DevK-Jung&show_icons=true&theme=holi" width = "49%" height="130%" />
 </div>
