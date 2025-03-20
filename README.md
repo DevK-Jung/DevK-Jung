@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring%20Batch&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=Spring%20Cloud&logoColor=white">
 </div>
 
 #### **Database**
@@ -30,6 +31,7 @@
 <div>
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
@@ -52,17 +54,15 @@
 #### **ETC**
 <div>
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/MSA-FF5733?style=for-the-badge&logo=cloud&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white">
 </div>
 
 ### 📚 Studying
 ---
 <div>
-    <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=Spring%20Cloud&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
     <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/MSA-FF5733?style=for-the-badge&logo=cloud&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
 </div>
 
