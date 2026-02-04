@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:8871e5,100:b678c4&height=300&fontColor=FFFFFF&section=header&text=DevK-Jung&fontSize=90&stroke=8)
 
-
 👋 Hi there! I'm JunhHyeong Kim, a backend developer
 
 ### ✨ Tech Stack
@@ -8,7 +7,8 @@
 
 #### **Languages**
 <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 #### **Framework**
@@ -17,7 +17,18 @@
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Spring%20Batch&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=Spring%20Cloud&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=Spring%20Batch&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=Spring%20Batch&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
+</div>
+
+#### **AI / ML**
+<div>
+    <img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logo=python&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/LangGraph-FF7F50?style=for-the-badge&logo=python&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Dify-7C4DFF?style=for-the-badge&logo=python&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/Flowise-32CD32?style=for-the-badge&logo=python&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/AI%20Service-FF4500?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 #### **Database**
@@ -41,52 +52,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">&nbsp
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
-</div>
-
-#### **Collaboration**
-<div>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
-</div>
-
-#### **ETC**
-<div>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/MSA-FF5733?style=for-the-badge&logo=cloud&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white">
-</div>
-
-### 📚 Studying
----
-<div>
-    <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-</div>
-
-### 🛠 Tools 
----
-<div>
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
-
-### 📫 Contact 
----
-<div>
-  <a href="mailto:dev.kjung@gmail.com">
-    <img src="https://img.shields.io/badge/dev.kjung@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
-
-### 📊 Statistics
----
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=DevK-Jung&show_icons=true&theme=holi" width = "49%" height="130%" />
-</div>
-<div>
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevK-Jung&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&v=1"/>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">&nbsp
+    <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 </div>
